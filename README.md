@@ -4,4 +4,5 @@
 ## Языки и инструменты
 [![My Skills](https://skillicons.dev/icons?i=java,gradle,idea&theme)](https://skillicons.dev)
 
-
+## 📈 Моя статистика:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZavidVi&show_icons=true&theme=radical)
