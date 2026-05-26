@@ -14,4 +14,4 @@ I'm fond of programming
 
 
 ## 📈 Statistics
-![ZavidVi's GitHub stats](https://github-stats-extended.vercel.app/api?username=zavidvi)
+![ZavidVi's GitHub stats](https://github-stats-extended.vercel.app/api?username=zavidvi&show_icons=true&theme=radical))
