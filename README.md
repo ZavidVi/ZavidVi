@@ -1,17 +1,55 @@
+# Hi, I'm ZavidVi 👋
 
-# Hi, I'm ZavidVi! 👋
+> Aspiring Software & Game Developer
 
+I enjoy building games, desktop applications and useful digital products while continuously improving my programming skills.
+
+---
 
 ## 🚀 About Me
-I'm fond of programming
 
+- 💻 Learning **C#**, **.NET** and software architecture
+- 🎮 Interested in **Game Development** and **Minecraft Modding**
+- 📚 Constantly improving through personal projects
+- 🎯 Working towards publishing my first commercial product
 
-## 🛠 Tools
-[![My Skills](https://skillicons.dev/icons?i=visualstudio&theme)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=unreal&theme)](https://skillicons.dev)
+---
 
+## 🌱 Currently Learning
 
+- C#
+- .NET
+- Git & GitHub
+- Object-Oriented Programming
+- Design Patterns
+- Unreal Engine
 
+---
 
-## 📈 Statistics
-![ZavidVi's GitHub stats](https://github-stats-extended.vercel.app/api?username=zavidvi&show_icons=true&theme=radical)
+## 🛠 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,git,github,visualstudio,vscode,idea,unreal,blender&perline=5)](https://skillicons.dev)
+
+---
+
+## 📌 Featured Projects
+
+> Coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zavidvi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zavidvi&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+Coming soon...
+
+---
+
+> *"Build. Learn. Improve. Repeat."*
