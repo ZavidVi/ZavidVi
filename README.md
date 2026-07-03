@@ -49,5 +49,5 @@ Coming soon...
 Coming soon...
 
 <div align="center">
-  *"Build. Learn. Improve. Repeat."*
+  <b>"Build. Learn. Improve. Repeat."</b>
 </div>
