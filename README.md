@@ -34,7 +34,7 @@ I enjoy building games, desktop applications and useful digital products while c
 
 ## 📌 Featured Projects
 
-> Coming soon...
+Coming soon...
 
 ---
 
@@ -48,6 +48,6 @@ I enjoy building games, desktop applications and useful digital products while c
 
 Coming soon...
 
----
-
-> *"Build. Learn. Improve. Repeat."*
+<div align="center">
+  *"Build. Learn. Improve. Repeat."*
+</div>
