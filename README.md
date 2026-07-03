@@ -42,8 +42,6 @@ I enjoy building games, desktop applications and useful digital products while c
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zavidvi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zavidvi&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 Connect with Me
