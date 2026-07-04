@@ -20,7 +20,7 @@ I enjoy building games, desktop applications and useful digital products while c
 - C#
 - .NET
 - Git & GitHub
-- Object-Oriented Programming
+- OOP
 - Design Patterns
 - Unreal Engine
 
