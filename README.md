@@ -8,7 +8,6 @@ I enjoy building games, desktop applications and useful digital products while c
 
 ## 🚀 About Me
 
-- 💻 Learning **C#**, **.NET** and software architecture
 - 🎮 Interested in **Game Development** and **Minecraft Modding**
 - 📚 Constantly improving through personal projects
 - 🎯 Working towards publishing my first commercial product
@@ -17,18 +16,15 @@ I enjoy building games, desktop applications and useful digital products while c
 
 ## 🌱 Currently Learning
 
-- C#
-- .NET
 - Git & GitHub
 - OOP
 - Design Patterns
-- Unreal Engine
 
 ---
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,git,github,visualstudio,vscode,idea,unreal,blender&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,java,git,github,visualstudio,vscode,idea&perline=5)](https://skillicons.dev)
 
 ---
 
